@@ -82,3 +82,5 @@ abplive.com###notificationPopUp
 ||pa.abpnews.catchmedia.com/web_services/apps/v48/jsonrpc/*$xhr,domain=abplive.com
 www.bollywoodshaadis.com##div.artcl_ad_dsk
 www.bollywoodshaadis.com##.hidden-xs.hidden-sm.fw_ad
+firebase*.js$script
+
