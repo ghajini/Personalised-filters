@@ -27,17 +27,14 @@ movies123.pk##[href^="//himekingrow.com/"]
 ##[href="https://buycheaphost.net/"]
 
 /wp-content/plugins/soralink/assets/js/soralink.js$script
-
 ! expermental,may cause fp
 /pfe/current/*.min.js
-
 ! prope. crap ads
 movies4me.*##+js(acis, Math, break;case $.)
 
 123-watch.com##+js(aopw, puShown)
 
 ! fake buttons by uc br ,allows download of uc br eg site ! http:// isaidubb . net
-
 ##[href^="/ucdownload.php"]
 ##[href^="/admdownload.php"]
 ##[href^="/ucdownloader.php"]
@@ -78,3 +75,5 @@ news18.com##[class="Article_article_mad__1sOil"]
 www.news18.com##[style^="width:"]:has(.adunitContainer)
 www.news18.com##[style^="min-height:"]:has(.OUTBRAIN)
 www.news18.com##[style^="min-height :90px"]
+
+marathi.abplive.com##.ads-320x250
