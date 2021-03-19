@@ -77,3 +77,4 @@ www.news18.com##[style^="min-height:"]:has(.OUTBRAIN)
 www.news18.com##[style^="min-height :90px"]
 
 marathi.abplive.com##.ads-320x250
+marathi.abplive.com##.block-container.container
