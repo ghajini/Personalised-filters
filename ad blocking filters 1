@@ -32,7 +32,7 @@ movies123.pk##[href^="//himekingrow.com/"]
 /pfe/current/*.min.js
 
 ! prope. crap ads
-movies4me.*,filmy4wap1.*,bollyshare.*,gomovies.*##+js(acis, Math, break;case $.)
+movies4me.*,filmy4wap1.*,bollyshare.*,gomovies.*,filmypur.info##+js(acis, Math, break;case $.)
 updatesmovie.xyz##+js(aost, Math.random, /\st\.[a-zA-Z]*\s/)
 hdmoviesflixz.in,updatesmovie.xyz##^script:has-text(break;case $.)
 
