@@ -32,7 +32,7 @@ movies123.pk##[href^="//himekingrow.com/"]
 /pfe/current/*.min.js
 
 ! prope. crap ads
-movies4me.*,filmy4wap1.*,bollyshare.*,gomovies.*,filmypur.info##+js(acis, Math, break;case $.)
+movies4me.*,filmy4wap1.*,bollyshare.*,gomovies.*,filmypur.info,freemoviewap2019.in,webs.moe,oceanofmovies.se##+js(acis, Math, break;case $.)
 updatesmovie.xyz##+js(aost, Math.random, /\st\.[a-zA-Z]*\s/)
 hdmoviesflixz.in,updatesmovie.xyz##^script:has-text(break;case $.)
 
@@ -107,3 +107,20 @@ filmymaza.blogspot.com,uploadmaza.com,moviezwaphd.*##+js(aopw, _pop)
 ||binomo.com^$popup,3p
 latesthdmovies.bid##+js(aopr, absda)
 ##[href^="https://bulletprofitsmartlink.com/"]
+
+filmy-zilla.co.in,links.extralinks.casa##+js(aost, Math.floor, /^/)
+
+||untimburra.com^
+o2tvseriesz.com,movieul.com##+js(nowoif)
+
+! ytstvmovies.xyz
+||tnwyjsgypjpc.com^
+||bvtuuewvwi.com^
+
+! linkspoint.xyz
+||eerthelasta.space^
+||obstanceder.pro^
+||lizationasklp.xyz^
+
+! links.extralinks.casa
+links.extralinks.casa##a.ad_btn1
